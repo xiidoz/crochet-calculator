@@ -1,3 +1,3 @@
-# xiidoz.com
+# sphere crocheting calculator
 
-Hier gibt es nicht viel zu sehen.
+Vue.js app to calculate rows for crocheting an ideal sphere in various sizes.
